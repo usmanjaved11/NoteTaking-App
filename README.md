@@ -279,11 +279,9 @@ The current application can be extended with:
 
 ## 👨‍💻 Author
 
-**Your Name**
+**M Usman**
 
 Java Developer | Software Engineering Student
-
-> Replace `Your Name` with your real name before publishing the repository.
 
 ---
 
